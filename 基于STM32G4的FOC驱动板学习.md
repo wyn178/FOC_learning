@@ -1,6 +1,6 @@
 # 基于STM32的FOC驱动板学习
 
-<img src="C:\Users\17899\AppData\Roaming\Typora\typora-user-images\image-20260207165857009.png" alt="image-20260207165857009" style="zoom: 50%;" />
+<img src="D:\wyn\my_code\FOC_learning\STM32选型.jpg" style="zoom:33%;" />
 
 | **特性**         | **STM32G474VET6 (电机专业版)**          | **STM32F407VGT6 (通用全能版)**       |
 | ---------------- | --------------------------------------- | ------------------------------------ |
@@ -10,17 +10,13 @@
 | **CAN支持**      | 3路 FDCAN (支持更高波特率)              | 2路 CAN 2.0B                         |
 | **适用场景**     | 进阶FOC学习、追求控制精度、高性能机器人 | 基础入门、多功能开发、追求系统稳定性 |
 
-<img src="C:\Users\17899\AppData\Roaming\Typora\typora-user-images\image-20260207221704582.png" alt="image-20260207221704582" style="zoom:50%;" />
+<img src="D:\wyn\my_code\FOC_learning\STM32MCU命名规则" alt="image-20260207221704582" style="zoom:50%;" />
 
 最终决定选用：**STM32G474VET6**
 
 ------
 
-![](D:\wyn\OneDrive\Pictures\Screenshots\屏幕截图 2026-02-08 095147.png)
-
-------
-
-
+<img src="D:\wyn\my_code\FOC_learning\STM32MCU命名规则.jpg" style="zoom:33%;" />
 
 ## STEP 1:引脚分配
 
